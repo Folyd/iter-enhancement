@@ -1,0 +1,12 @@
+[package]
+name = "iter-enhancement"
+version = "0.1.0"
+authors = ["Folyd <lyshuhow@gmail.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+
+[dev-dependencies]
+criterion = "0.3.3"
+criterion-macro = "0.3.3"
